@@ -5,6 +5,9 @@
 - [ ] Teikna Hugmyndarkort/Vefsíðu layout í Paint.net
 - [ ] Hugmyndir fyrir Vefsíðu
 ## Hugmyndir 💡
+* Bílagræju keppni
+* Gullt og svart theme
+* 
 
 
 ## Hvað á eftir að gera 🗒️
