@@ -2,10 +2,19 @@
 [Vefhönnun 2022](https://github.com/vefhonnun/Verkefni/tree/main/Verkefni/V-6)
 # Todo List 😄
 ## Plön 📝
-- [x] Teikna Hugmyndarkort/Vefsíðu layout í Paint.net
+- [ ] Teikna Hugmyndarkort/Vefsíðu layout í Paint.net
 - [ ] Hugmyndir fyrir Vefsíðu
-- [ ] Finna myndir fyrir Vefsíðu
+## Hugmyndir 💡
 
+
+## Hvað á eftir að gera 🗒️
+- [ ] Finna myndir fyrir Vefsíðu
+- [ ] Gera header 
+- [ ] Gera header dropdown menu gagnvart val aðra síðar
+- [ ] Gera **@media only screen** fyrir síma og tölvu
+- [ ] Gera texta fyrir heima síðu 
+- [ ] Gera footer 
+- [ ] Setja links í footer
 
 ## Hvað er í vinnslu  👷
 
